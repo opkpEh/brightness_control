@@ -1,4 +1,4 @@
-from screen_dimmer import main
+from src.screen_dimmer import main
 
 def test_about_flag(monkeypatch, capsys):
     monkeypatch.setattr('sys.platform', 'win32')
