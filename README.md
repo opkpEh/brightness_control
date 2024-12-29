@@ -1,5 +1,6 @@
-# Brightness Control
+[![Python application](https://github.com/opkpEh/brightness_control/actions/workflows/python-app.yml/badge.svg)](https://github.com/opkpEh/brightness_control/actions/workflows/python-app.yml)
 
+# Brightness Control
 **Taking a simplified approach to take your brightness beyond 0 percent.**  
 Go dimmer, go dark!
 
