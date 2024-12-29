@@ -5,8 +5,11 @@ description = ""
 authors = ["opkpEh <harshpandeykp20@gmail.com>"]
 readme = "README.md"
 
+keywords = ["brightness", "screen", "dimmer"]
+
 [tool.poetry.dependencies]
 python = "^3.11"
+pytest = "^8.3.4"
 
 
 [build-system]
